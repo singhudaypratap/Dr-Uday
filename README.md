@@ -15,7 +15,7 @@
 
 🔭 With extensive industry and teaching & research experience, I specialize in applying AI and ML, Chaos Theory, and Nonlinear Dynamics to Intrusion detection, Atmospheric prediction and predictability studies.
 
-🎓 Holding a PhD and Master’s Degree in Computer Science and Engineering.
+🎓 Holding a PhD and Master’s & Bachelor's Degree in Computer Science and Engineering.
 
 🏆 Recipient of the CSIR SRF (Direct) award for the project titled "A Nonlinear Dynamical Perspective on the Predictability of Atmosphere and Ocean."
 
